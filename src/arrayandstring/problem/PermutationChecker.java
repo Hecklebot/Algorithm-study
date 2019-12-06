@@ -1,4 +1,4 @@
-package arrayandstring;
+package arrayandstring.problem;
 
 import java.util.Arrays;
 

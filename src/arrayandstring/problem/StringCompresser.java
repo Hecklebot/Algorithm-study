@@ -1,4 +1,4 @@
-package arrayandstring;
+package arrayandstring.problem;
 
 public class StringCompresser {
   
